@@ -8,7 +8,7 @@ export default function Custom404() {
       <h1>404 - Página não encontrada</h1>
       <p>A página que você está procurando não existe.</p>
       <Link href="/">
-        <a>Voltar para a página inicial</a>
+        <p>Voltar para a página inicial</p>
       </Link>
     </div>
   );
